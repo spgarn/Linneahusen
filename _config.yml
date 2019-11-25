@@ -4,7 +4,7 @@ baseurl: /Linneahusen/
 # Site settings
 title: Linneahusen AB
 email: info@linneahusen.se
-description: "Skriv an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hemsida för Linneahusen AB."
 
 
 # Team names, titles and social links
@@ -12,6 +12,7 @@ people:
 - name: Måns Nilsson
   pic: 1
   position: VD
+  info: Ansvarar för daglig drift.
   social:
     - title: twitter
       url: #
@@ -23,7 +24,8 @@ people:
 - name: Simon Gärtner
   pic: 2
   position: CFO
-  social:
+  info: Ansvarar för Ekonomi,Juridik och admin.
+  social: 
     - title: twitter
       url: #
     - title: facebook
@@ -34,6 +36,7 @@ people:
 - name: Henrik Eklund
   pic: 3
   position: Fastighetsansvarig
+  info: Ansvarar för alla tekniska frågor kring fastigheterna.
   social:
     - title: twitter
       url: #
