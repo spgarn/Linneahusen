@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/snow-1246513_1920.jpg');
+    background-image: url('{{ site.baseurl }}/img/snow.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
